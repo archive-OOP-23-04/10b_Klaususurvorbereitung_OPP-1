@@ -6,7 +6,7 @@ public class Test {
     System.out.println("Instanzvariable: " + this);
 }
 
-    	// this --> Instanzvariable
+    	// this --> Instanzvariable /  RAM-Adresse des Objekts
 		// verweist aus der Instanz auf sich selbst
    
 
